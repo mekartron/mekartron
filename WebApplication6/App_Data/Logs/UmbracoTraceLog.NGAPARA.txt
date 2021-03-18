@@ -1,0 +1,2 @@
+﻿ 2021-03-18 02:09:18,251 [P16492/D2/T45] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2021-03-17 02:09:18
+ 2021-03-18 06:09:18,660 [P16492/D2/T116] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2021-03-17 06:09:18

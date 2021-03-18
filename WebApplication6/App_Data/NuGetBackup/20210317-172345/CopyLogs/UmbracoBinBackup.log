@@ -1,0 +1,90 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, March 17, 2021 5:23:45 PM
+   Source : D:\Test\test\simple\WebApplication6\WebApplication6\bin\
+     Dest : D:\Test\test\simple\WebApplication6\WebApplication6\App_Data\NuGetBackup\20210317-172345\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  60	D:\Test\test\simple\WebApplication6\WebApplication6\bin\
+	    New File  		  144384	AutoMapper.dll 90%  100%  
+	    New File  		   28160	AutoMapper.Net4.dll100%  
+	    New File  		  118784	businesslogic.dll100%  
+	    New File  		  151552	ClientDependency.Core.dll 86%  100%  
+	    New File  		   23552	ClientDependency.Core.Mvc.dll100%  
+	    New File  		  507904	cms.dll 25%   51%   77%  100%  
+	    New File  		   51712	controls.dll100%  
+	    New File  		  122880	CookComputing.XmlRpcV2.dll100%  
+	    New File  		   99840	Examine.dll100%  
+	    New File  		  134656	HtmlAgilityPack.dll 97%  100%  
+	    New File  		  200704	ICSharpCode.SharpZipLib.dll 65%  100%  
+	    New File  		  179200	ImageProcessor.dll 73%  100%  
+	    New File  		  114176	ImageProcessor.Web.dll100%  
+	    New File  		   24576	interfaces.dll100%  
+	    New File  		  258048	log4net.dll 50%  100%  
+	    New File  		  786432	Lucene.Net.dll 33%   66%  100%  
+	    New File  		   54784	MarkdownSharp.dll100%  
+	    New File  		   11264	Microsoft.ApplicationBlocks.Data.dll100%  
+	    New File  		  171672	Microsoft.AspNet.Identity.Core.dll 76%  100%  
+	    New File  		   54944	Microsoft.AspNet.Identity.Owin.dll100%  
+	    New File  		   3.8 m	Microsoft.CodeAnalysis.CSharp.dll 13%   26%   39%   52%   65%   78%   91%  100%  
+	    New File  		   1.6 m	Microsoft.CodeAnalysis.dll 15%   30%   45%   60%   76%   91%  100%  
+	    New File  		   40168	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll100%  
+	    New File  		    3187	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml100%  
+	    New File  		  101032	Microsoft.Owin.dll100%  
+	    New File  		  133288	Microsoft.Owin.Host.SystemWeb.dll 98%  100%  
+	    New File  		   36520	Microsoft.Owin.Security.Cookies.dll100%  
+	    New File  		   53416	Microsoft.Owin.Security.dll100%  
+	    New File  		   77488	Microsoft.Owin.Security.OAuth.dll100%  
+	    New File  		   45416	Microsoft.Web.Infrastructure.dll100%  
+	    New File  		  396288	MiniProfiler.dll 33%   66%   99%  100%  
+	    New File  		  431616	MySql.Data.dll 30%   60%   91%  100%  
+	    New File  		  513536	Newtonsoft.Json.dll 25%   51%   76%  100%  
+	    New File  		    4608	Owin.dll100%  
+	    New File  		   10240	Semver.dll100%  
+	    New File  		   19968	SQLCE4Umbraco.dll100%  
+	    New File  		  204544	System.Collections.Immutable.dll 64%  100%  
+	    New File  		  470696	System.Data.SqlServerCe.dll 27%   55%   83%  100%  
+	    New File  		  240808	System.Data.SqlServerCe.Entity.dll 54%  100%  
+	    New File  		  185544	System.Net.Http.Formatting.dll 70%  100%  
+	    New File  		  262896	System.Reflection.Metadata.dll 49%   99%  100%  
+	    New File  		  137144	System.Web.Helpers.dll 95%  100%  
+	    New File  		  471240	System.Web.Http.dll 27%   55%   83%  100%  
+	    New File  		   82120	System.Web.Http.WebHost.dll100%  
+	    New File  		  548280	System.Web.Mvc.dll 47%   95%  100%  
+	    New File  		  263608	System.Web.Razor.dll 49%   99%  100%  
+	    New File  		   43128	System.Web.Webpages.Deployment.dll100%  
+	    New File  		  206456	System.Web.Webpages.dll 63%  100%  
+	    New File  		   40888	System.Web.Webpages.Razor.dll100%  
+	    New File  		  192512	TidyNet.dll 68%  100%  
+	    New File  		   2.3 m	Umbraco.Core.dll 20%   41%   62%   83%  100%  
+	    New File  		   38400	umbraco.DataLayer.dll100%  
+	    New File  		   2.0 m	umbraco.dll 24%   48%   73%   97%  100%  
+	    New File  		  372736	umbraco.editorControls.dll 35%   70%  100%  
+	    New File  		  131584	umbraco.MacroEngines.dll 99%  100%  
+	    New File  		   95744	Umbraco.ModelsBuilder.dll100%  
+	    New File  		   38400	umbraco.providers.dll100%  
+	    New File  		   57344	Umbraco.Web.UI.dll100%  
+	    New File  		   58880	UmbracoExamine.dll100%  
+	    New File  		   22528	UrlRewritingNet.UrlRewriter.dll100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :        60        60         0         0         0         0
+   Bytes :   18.73 m   18.73 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           306888546 Bytes/sec.
+   Speed :           17560.303 MegaBytes/min.
+   Ended : Wednesday, March 17, 2021 5:23:45 PM
+
